@@ -1,5 +1,5 @@
 // part one
-// number of successive increments
+// number of successive increments in array
 let solve_part_one = (lst) => (
   lst.split('\n')
      .map(s => Number(s))
